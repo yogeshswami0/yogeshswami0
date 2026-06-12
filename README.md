@@ -1,22 +1,20 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.github.io/api?type=waving&color=auto&height=250&section=header&text=SOFTWARE%20ENGINEER&fontSize=55&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.github.io/api?type=waving&color=auto&height=250&section=header&text=COMPUTER SCIENCE%20STUDENT&fontSize=55&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9A6AFF&center=true&vCenter=true&width=500&lines=Senior+Software+Engineer;AI+%2F+ML+Infrastructure;Full+Stack+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9A6AFF&center=true&vCenter=true&width=500&lines=computer+science+student;AI+%2F+ML+ GEN-AI;MERN+Stack" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/Degree-M.S.+Computer+Science-6f42c1?style=flat-square&logo=academia&logoColor=white" alt="Academic"></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/Location-San+Francisco%2C+CA-4c1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/Portfolio-Premium+Site-8a2be2?style=flat-square&logo=webauthn&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/Degree-BTECH+Computer+Science-6f42c1?style=flat-square&logo=academia&logoColor=white" alt="Academic"></a>
+  <a href="https://github.com"><img src="https://img.shields.io/badge/NIT JAMSHEDPUR%2C+CA-4c1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:example@email.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:swamiyogesh670@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=github-username&label=Profile+Views&color=7928CA&style=flat-square" alt="Views" />
   <img src="https://img.shields.io/github/followers/github-username?label=Followers&style=flat-square&color=5854d6" alt="Followers" />
   <img src="https://img.shields.io/github/stars/github-username?label=Total+Stars&style=flat-square&color=4b0082" alt="Stars" />
 </p>
@@ -185,10 +183,10 @@ Engineered custom dynamic batching layers wrapping core Triton frameworks to sca
 ## 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Guardian_Rank-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-5_Star_Master-2F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Problem_Solving_6_Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  <a href="https://codechef.com"><img src="https://img.shields.io/badge/CodeChef-6_Star_Competitive-965434?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"></a>
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-4_Star_Master-2F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
+  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Problem_Solving_5_Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  
 </p>
 
 ---
