@@ -1,22 +1,24 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.github.io/api?type=waving&color=auto&height=250&section=header&text=COMPUTER SCIENCE%20STUDENT&fontSize=55&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.github.io/api?type=waving&color=auto&height=250&section=header&text=YOGESH%20SWAMI&fontSize=55&fontColor=ffffff&animation=twinkling&theme=dark" width="100%" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9A6AFF&center=true&vCenter=true&width=500&lines=computer+science+student;AI+%2F+ML+ GEN-AI;MERN+Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9A6AFF&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;Full+Stack+Developer;3D+Web+UI+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com"><img src="https://img.shields.io/badge/Degree-BTECH+Computer+Science-6f42c1?style=flat-square&logo=academia&logoColor=white" alt="Academic"></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/NIT JAMSHEDPUR%2C+CA-4c1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/yogeshswami0"><img src="https://img.shields.io/badge/Degree-B.Tech+CSE+%40+NIT+Jamshedpur-6f42c1?style=flat-square&logo=academia&logoColor=white" alt="Academic"></a>
+  <a href="https://github.com/yogeshswami0"><img src="https://img.shields.io/badge/Location-Jamshedpur%2C+India-4c1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"></a>
+  <a href="https://github.com/yogeshswami0"><img src="https://img.shields.io/badge/Portfolio-Live+Auction-8a2be2?style=flat-square&logo=webauthn&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/yogesh-swami-a3095b288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:swamiyogesh670@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/github-username?label=Followers&style=flat-square&color=5854d6" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/github-username?label=Total+Stars&style=flat-square&color=4b0082" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=yogeshswami0&label=Profile+Views&color=7928CA&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/github/followers/yogeshswami0?label=Followers&style=flat-square&color=5854d6" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/yogeshswami0?label=Total+Stars&style=flat-square&color=4b0082" alt="Stars" />
 </p>
 
 ---
@@ -24,16 +26,16 @@
 <!-- ABOUT SECTION -->
 ## 📌 About Me
 
-I am a senior-level software engineer specializing in building high-scale distributed systems, enterprise-grade cloud architecture, and product-driven AI/ML infrastructure. With a core focus on bridging the gap between sophisticated machine learning models and robust production systems, I design application ecosystems engineered for performance, security, and extreme scalability. 
+I am a Computer Science & Engineering undergraduate at NIT Jamshedpur, focusing on robust full-stack applications, interactive UI systems, and highly responsive user architectures. I combine backend stability with advanced frontend engineering, currently exploring real-time web state synchronization and immersive MERN STACK interfaces.
 
-* **Enterprise Software Engineering:** Dedicated to clean code, test-driven development (TDD), architecture design patterns, and CI/CD automation.
-* **AI/ML Productionization:** Experienced in optimization of LLM pipelines, vector databases, real-time feature stores, and distributed inference engines.
-* **Full Stack & Product Mindset:** Building products with deep alignment between technical execution and business-driven key metrics.
+* **Computer Science & Engineering:** Deepening core fundamentals in operating systems, distributed database designs, algorithms, and microservices architecture.
+* **Full Stack Development:** Creating high-concurrency systems featuring unified authentication, secure role-based permissions, and dynamic client routing layers.
+* **3D Visual & Interactive UIs:** Specialized in converting traditional static web layouts into real-time interactive systems utilizing 3D motion graphs and hardware-accelerated rendering.
 
 ### ⚡ Current Openings & Collaboration
-* High-scale architectural consultations
-* Open-source core contributions
-* Strategic advisory for AI/ML infrastructure implementation
+* Full-stack application engineering partnerships
+* Interactive UI/UX and 3D web graphics design exploration
+* Open-source infrastructure contributions
 
 ---
 
@@ -42,36 +44,35 @@ I am a senior-level software engineer specializing in building high-scale distri
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,go,cpp,rust,java" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css" alt="Languages" />
 </p>
 
 ### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,threejs,sass" alt="Frontend" />
 </p>
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postgres,mongodb,redis,postgres,mysql" alt="Backend and DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,mysql,postgres,redis" alt="Backend and DB" />
 </p>
 
 ### Cloud, DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,linux,git" alt="DevOps and Tooling" />
+  <img src="https://skillicons.dev/icons?i=docker,github,linux" alt="DevOps and Tooling" />
 </p>
 
 ---
 
 <!-- AI/ML EXPERTISE SECTION -->
-## 🤖 AI / ML Expertise
+## 🤖 AI / ML & Visualization Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Large Language Models** | Advanced | RAG pipelines, fine-tuning, prompt orchestration, LangChain, LlamaIndex |
-| **Deep Learning frameworks** | Advanced | PyTorch, TensorFlow, Keras, JAX |
-| **Vector Databases** | Intermediate | Pinecone, Milvus, Qdrant, ChromaDB |
-| **MLOps / Infra** | Advanced | Kubeflow, MLflow, Triton Inference Server, Weights & Biases |
-| **Data Engineering** | Advanced | Apache Spark, Kafka, Snowflake, Airflow |
+| **3D Web Graphics** | Advanced | Three.js canvas generation, custom shaders, camera path animation, Matter.js 2D environments |
+| **Real-time Synchronization** | Advanced | Socket.io event architecture, persistent state pooling, transactional API synchronization |
+| **State Engineering** | Advanced | Redux Toolkit state architectures, unified data layers, asynchronous query caching via Axios |
+| **Data Orchestration** | Intermediate | Relational data integrity schemas, complex pipeline parsing, aggregations |
 
 ---
 
@@ -79,63 +80,56 @@ I am a senior-level software engineer specializing in building high-scale distri
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>📐 Enterprise Distributed Vector Search Orchestrator</b></summary>
+<summary><b>🔨 Live Auction Architecture Engine</b></summary>
 <br />
 
 ### Project Description
-A highly available, low-latency clustering layer designed to coordinate distributed index structures across partitioned memory fabrics. Built to optimize multi-tenant query routing and enterprise semantic isolation layers.
+An enterprise-grade live web socket auction ecosystem featuring granular tier permission handling (Admin, Owner, Player), synchronous live leaderboards, and real-time state calculation metrics.
 
 | Metric | Target / Implementation |
 | :--- | :--- |
-| **Stack** | Go, gRPC, Kubernetes, Redis Enterprise, Raft Consensus |
-| **Scale** | > 500 Million vectors dynamically indexed |
-| **Performance** | Sub-12ms p99 retrieval latency under 15k RPS load |
-| **Security** | Field-level AES-256 state encryption & RBAC validation |
-| **Impact** | Reduced infrastructure compute expenditures by 38% |
-| **Repository** | [Private / Enterprise Core Archetype] |
+| **Stack** | React.js, Express, Node.js, Axios, Redux, Three.js, CSS Animations |
+| **Scale** | Multi-role routing environments mapping specific user privilege gates |
+| **Performance** | Asynchronous action state updates under 15ms local lifecycle delay |
+| **Security** | Encrypted token authentication with strict cross-origin CORS security layers |
+| **Impact** | Fully automated transactional event loops dropping layout refresh needs to zero |
+| **Repository** | [github.com/yogeshswami0/live-auction](https://github.com/yogeshswami0) |
 
 ### Architectural Deep-Dive
-Implemented a custom consistent hashing ring architecture integrated directly with structural node topologies. By deploying partition metadata directly into custom sidecar structures, query-to-node hop-counts are minimized, eliminating secondary network serialization penalties entirely.
+Engineered a centralized state management module resolving dual server-client actions efficiently. Integrates interactive, hardware-accelerated 3D elements that dynamically respond to bidding milestones and user actions, replacing conventional tabular dashboard structures with immersive data representations.
 </details>
 
 <details>
-<summary><b>🧠 Real-Time Cognitive Pipeline Platform</b></summary>
+<summary><b>🌐 Immersive 3D Animated Navigation Core</b></summary>
 <br />
 
 ### Project Description
-An end-to-end continuous inference and streaming data engineering framework optimized for multi-modal transformations and high-volume predictive processing engines.
+A modular UI subsystem transforming typical navigation workflows into volumetric, reactive 3D workspaces running at persistent high frame rates across devices.
 
 | Metric | Target / Implementation |
 | :--- | :--- |
-| **Stack** | Python, PyTorch, Apache Kafka, FastAPI, Triton, AWS |
-| **Scale** | 2.4 Billion daily message ingestion capacity |
-| **Performance** | Structured real-time processing stream at 85MB/s |
-| **Security** | TLS 1.3 mTLS end-to-end payload signature validation |
-| **Impact** | Empowered automated internal modeling systems with zero down-time |
-| **Repository** | `github.com/profile/cognitive-pipeline` |
+| **Stack** | JavaScript, Next.js, Three.js WebGL Framework, CSS3D Vectors, Anime.js |
+| **Scale** | Scalable component architecture designed for modern complex layout routing |
+| **Performance** | Locked 60FPS visual thread loops by offloading physics tasks to Web Workers |
+| **Security** | Sanitized coordinate state structures ensuring input validation safety |
+| **Impact** | Drastically elevates visual interaction metrics, keeping user sessions fluid and engaging |
+| **Repository** | [github.com/yogeshswami0/3d-navigation](https://github.com/yogeshswami0) |
 
 ### Architectural Deep-Dive
-Engineered custom dynamic batching layers wrapping core Triton frameworks to scale runtime execution based on infrastructure memory constraints. Isolates volatile processing loops behind asynchronous buffer structures ensuring decoupled system failure safety.
+Uses low-overhead raycasting matrices to detect cursor focus changes, feeding state offsets directly into structural matrix transformations. Intercepts standard route changes to execute seamless 3D spatial translations before rendering destination page viewframes.
 </details>
 
 ---
 
 <!-- EXPERIENCE SECTION -->
-## 💼 Work Experience
+## 💼 Academic & Practical learning
 
-### **Staff Software Engineer** — *FAANG Corporation*  
-**July 2024 — Present**  
-* Architected distributed systems platform responsible for driving multi-regional transactional data flows.
-* Managed cross-functional development across core application APIs, improving reliability targets from 99.9% to 99.995%.
-* Spearheaded transition of monolithic platform capabilities into modern isolated service environments.
-* `Go` `Kubernetes` `AWS` `gRPC` `Kafka` `PostgreSQL`
-
-### **Senior AI Platform Engineer** — *Enterprise AI Unicorn*  
-**March 2022 — July 2024**  
-* Constructed foundational MLOps deployment framework enabling continuous updates of model assets.
-* Designed custom inference optimization frameworks lowering production hosting budgets by $1.2M annually.
-* Created multi-layered data integration platforms scaling pipeline ingestion speeds by 3x.
-* `Python` `PyTorch` `Docker` `Terraform` `Ray` `GCP`
+### **Student cse** — *NIT Jamshedpur*  
+**July 2023 — Present**  
+* Designing real-time data sync patterns for distributed apps using advanced Web Socket integrations.
+* Scaling state management pipelines on frontend clients using Redux architectures, eliminating rendering redundancies.
+* Building modern user portals with distinct login security wrappers and reactive user role boundaries.
+* `React.js` `Node.js` `Express` `MongoDB` `Axios` `Redux`
 
 ---
 
@@ -147,34 +141,22 @@ Engineered custom dynamic batching layers wrapping core Triton frameworks to sca
 
 | Recognition | Details |
 | :--- | :--- |
-| **Top Technical Innovator Award** | Recognized out of 5,000+ engineers for structural system optimizations |
-| **Open Source Excellence Core Badge** | Top 0.5% global contributor status across critical infrastructure libraries |
-| **Patent Authorization** | Co-inventor of decentralized high-throughput cache invalidation methodologies |
+| **NIT Jamshedpur CSE** | Pursuing highly technical B.Tech roadmap maintaining competitive structural specialization paradigms |
+| **3D UI Innovation** | Deployed custom WebGL modules to convert traditional text-only interfaces into real-time kinetic environments |
 
 ---
 
 <!-- CERTIFICATIONS SECTION -->
 ## 📜 Certifications
 
-### Amazon Web Services
+### Advanced Web Development
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS SAP">
-  <img src="https://img.shields.io/badge/AWS-Certified_DevOps_Engineer_Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DOP">
+  <img src="https://img.shields.io/badge/Full_Stack_Development-MERN_Architecture_Expertise-6f42c1?style=for-the-badge&logo=react&logoColor=white" alt="MERN Certified">
 </p>
 
-### Oracle
+### Computer Science Foundations
 <p align="left">
-  <img src="https://img.shields.io/badge/Oracle-Java_SE_17_Developer_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle OCP">
-</p>
-
-### NPTEL
-<p align="left">
-  <img src="https://img.shields.io/badge/NPTEL-Elite_Gold_Cloud_Computing-005EA6?style=for-the-badge&logo=education&logoColor=white" alt="NPTEL">
-</p>
-
-### Cisco
-<p align="left">
-  <img src="https://img.shields.io/badge/Cisco-CCNA-1Y73B7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA">
+  <img src="https://img.shields.io/badge/NIT_Jamshedpur-Data_Structures_And_Algorithms_Core-005EA6?style=for-the-badge&logo=education&logoColor=white" alt="NITJ Foundation">
 </p>
 
 ---
@@ -183,10 +165,8 @@ Engineered custom dynamic batching layers wrapping core Triton frameworks to sca
 ## 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://geeksforgeeks.org"><img src="https://img.shields.io/badge/GeeksforGeeks-4_Star_Master-2F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Problem_Solving_5_Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
-  
+  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Computer_Science-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
 </p>
 
 ---
@@ -195,12 +175,12 @@ Engineered custom dynamic batching layers wrapping core Triton frameworks to sca
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=github-username&show_icons=true&theme=dark&bg_color=0d1117&title_color=9A6AFF&icon_color=9A6AFF&text_color=c9d1d9&border_color=21262d" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=github-username&theme=dark&background=0d1117&title=9A6AFF&ring=9A6AFF&fire=9A6AFF&text=c9d1d9&border=21262d" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yogeshswami0&show_icons=true&theme=dark&bg_color=0d1117&title_color=9A6AFF&icon_color=9A6AFF&text_color=c9d1d9&border_color=21262d" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshswami0&theme=dark&background=0d1117&title=9A6AFF&ring=9A6AFF&fire=9A6AFF&text=c9d1d9&border=21262d" width="48%" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=github-username&layout=compact&theme=dark&bg_color=0d1117&title_color=9A6AFF&text_color=c9d1d9&border_color=21262d" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshswami0&layout=compact&theme=dark&bg_color=0d1117&title_color=9A6AFF&text_color=c9d1d9&border_color=21262d" width="48%" alt="Top Languages" />
 </p>
 
 ---
@@ -209,7 +189,7 @@ Engineered custom dynamic batching layers wrapping core Triton frameworks to sca
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=github-username&theme=midnight&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yogeshswami0&theme=midnight&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
 </p>
 
 ---
@@ -218,7 +198,7 @@ Engineered custom dynamic batching layers wrapping core Triton frameworks to sca
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=github-username&theme=react-dark&bg_color=0d1117&color=9A6AFF&line=9A6AFF&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshswami0&theme=react-dark&bg_color=0d1117&color=9A6AFF&line=9A6AFF&point=ffffff&area=true&hide_border=false" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -227,7 +207,7 @@ Engineered custom dynamic batching layers wrapping core Triton frameworks to sca
 ## 🐍 Contribution Canvas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github-username/github-username/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/yogeshswami0/yogeshswami0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
 </p>
 
 ---
@@ -237,7 +217,7 @@ Engineered custom dynamic batching layers wrapping core Triton frameworks to sca
 
 ```yaml
 Focusing:
-  Learning: "Distributed System consensus engines (Raft, Paxos) at scale"
-  Building: "High throughput custom vector database indexing engine"
-  Exploring: "Multi-agent orchestration graphs & stateful compilation environments"
-  Open_To: "Collaborating on mission critical open-source system performance libraries"
+  Learning: "Advanced hardware accelerated Three.js shaders and WebGL camera matrices"
+  Building: "Live Auction continuous state sync layer with complex multi-role workflows"
+  Exploring: "Real-time client synchronization frames and high frame rate viewport physics"
+  Open_To: "Collaborating on interactive product architectures and innovative web platforms"
