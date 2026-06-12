@@ -26,7 +26,7 @@
 <!-- ABOUT SECTION -->
 ## 📌 About Me
 
-I am a Computer Science & Engineering undergraduate at NIT Jamshedpur, focusing on robust full-stack applications, interactive UI systems, and highly responsive user architectures. I combine backend stability with advanced frontend engineering, currently exploring real-time web state synchronization and immersive MERN STACK interfaces.
+I am a Computer Science & Engineering undergraduate at NIT Jamshedpur, focusing on robust full-stack applications, interactive UI systems, and highly responsive user architectures. I combine backend stability with advanced frontend engineering, currently exploring real-time web state synchronization and immersive 3D user interfaces.
 
 * **Computer Science & Engineering:** Deepening core fundamentals in operating systems, distributed database designs, algorithms, and microservices architecture.
 * **Full Stack Development:** Creating high-concurrency systems featuring unified authentication, secure role-based permissions, and dynamic client routing layers.
@@ -54,17 +54,17 @@ I am a Computer Science & Engineering undergraduate at NIT Jamshedpur, focusing 
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,mysql,postgres,redis" alt="Backend and DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" alt="Backend and DB" />
 </p>
 
 ### Cloud, DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,github,linux" alt="DevOps and Tooling" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,postman,linux" alt="DevOps and Tooling" />
 </p>
 
 ---
 
-<!-- AI/ML EXPERTISE SECTION -->
+<!-- AI/ML & 3D GRAPHICS EXPERTISE SECTION -->
 ## 🤖 AI / ML & Visualization Expertise
 
 | Domain | Proficiency | Details |
@@ -79,7 +79,7 @@ I am a Computer Science & Engineering undergraduate at NIT Jamshedpur, focusing 
 <!-- FEATURED PROJECTS SECTION -->
 ## 🚀 Featured Projects
 
-<details>
+<details open>
 <summary><b>🔨 Live Auction Architecture Engine</b></summary>
 <br />
 
@@ -97,6 +97,109 @@ An enterprise-grade live web socket auction ecosystem featuring granular tier pe
 
 ### Architectural Deep-Dive
 Engineered a centralized state management module resolving dual server-client actions efficiently. Integrates interactive, hardware-accelerated 3D elements that dynamically respond to bidding milestones and user actions, replacing conventional tabular dashboard structures with immersive data representations.
+
+#### Real-time Visual Engine Preview
+<!-- Floating Isometric Viewport Simulation with Ambient Occlusion Shadows -->
+<p align="center">
+  <svg width="680" height="340" viewBox="0 0 680 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .bg { fill: #0d1117; }
+      .grid-line { stroke: #30363d; stroke-width: 1; opacity: 0.3; }
+      
+      /* Pure CSS Isometric Float Animation */
+      @keyframes float3d {
+        0% { transform: translateY(0px) rotateX(60deg) rotateZ(-45deg); }
+        50% { transform: translateY(-12px) rotateX(60deg) rotateZ(-45deg); }
+        100% { transform: translateY(0px) rotateX(60deg) rotateZ(-45deg); }
+      }
+      
+      /* Continuous Dynamic Shadow Scaling Animation */
+      @keyframes shadowScale {
+        0% { transform: scale(1) translate(0, 0); opacity: 0.35; filter: blur(12px); }
+        50% { transform: scale(0.88) translate(6px, 6px); opacity: 0.18; filter: blur(18px); }
+        100% { transform: scale(1) translate(0, 0); opacity: 0.35; filter: blur(12px); }
+      }
+
+      /* Glow effect for active canvas nodes */
+      @keyframes cyberGlow {
+        0%, 100% { stroke: #9A6AFF; stroke-width: 2; }
+        50% { stroke: #bf9eff; stroke-width: 4; filter: drop-shadow(0 0 8px #9A6AFF); }
+      }
+      
+      .view-container {
+        transform-origin: 340px 150px;
+        animation: float3d 4s ease-in-out infinite;
+      }
+      
+      .shadow-layer {
+        transform-origin: 340px 250px;
+        mix-blend-mode: multiply;
+        animation: shadowScale 4s ease-in-out infinite;
+      }
+
+      .pulse-node { animation: cyberGlow 3s ease-in-out infinite; }
+    </style>
+
+    <!-- Deep Space Canvas Background -->
+    <rect width="100%" height="100%" class="bg" rx="8"/>
+    
+    <!-- Perspective Grid Floor -->
+    <g opacity="0.25">
+      <line x1="-100" y1="100" x2="800" y2="400" class="grid-line" />
+      <line x1="-100" y1="160" x2="800" y2="460" class="grid-line" />
+      <line x1="-100" y1="220" x2="800" y2="520" class="grid-line" />
+      <line x1="-100" y1="40" x2="800" y2="340" class="grid-line" />
+      <line x1="100" y1="-100" x2="-200" y2="500" class="grid-line" />
+      <line x1="250" y1="-100" x2="-50" y2="500" class="grid-line" />
+      <line x1="400" y1="-100" x2="100" y2="500" class="grid-line" />
+      <line x1="550" y1="-100" x2="250" y2="500" class="grid-line" />
+    </g>
+
+    <!-- REAL-TIME AMBIENT OCCLUSION SHADOW LAYER -->
+    <g class="shadow-layer">
+      <!-- Dropped Projection Soft Shadow Blur -->
+      <ellipse cx="340" cy="250" rx="140" ry="60" fill="#000000" />
+      <ellipse cx="260" cy="220" rx="40" ry="20" fill="#040208" />
+      <ellipse cx="420" cy="260" rx="50" ry="22" fill="#040208" />
+    </g>
+
+    <!-- FLOATING ISOMETRIC APPLICATION MESH -->
+    <g class="view-container">
+      <!-- Main Board Backplate Structure -->
+      <rect x="190" y="50" width="300" height="200" rx="12" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+      <rect x="190" y="50" width="300" height="40" rx="12" fill="#21262d" />
+      
+      <!-- Top Window Controls Decoration -->
+      <circle cx="215" cy="70" r="5" fill="#ff5f56" />
+      <circle cx="230" cy="70" r="5" fill="#ffbd2e" />
+      <circle cx="245" cy="70" r="5" fill="#27c93f" />
+      <text x="270" y="76" fill="#8b949e" font-family="monospace" font-size="12" font-weight="bold">live-auction-mesh</text>
+
+      <!-- Glassmorphic Data Visualization Node 1 (Leaderboard Matrix) -->
+      <g transform="translate(210, 105)">
+        <rect width="120" height="60" rx="6" fill="#21262d" fill-opacity="0.8" stroke="#8a2be2" stroke-width="1.5"/>
+        <text x="10" y="22" fill="#9a6aff" font-family="sans-serif" font-size="11" font-weight="bold">LEADERBOARD</text>
+        <rect x="10" y="32" width="100" height="6" rx="3" fill="#30363d" />
+        <rect x="10" y="44" width="75" height="6" rx="3" fill="#5854d6" />
+      </g>
+
+      <!-- Glassmorphic Data Visualization Node 2 (Realtime Metric Engine) -->
+      <g transform="translate(350, 125)">
+        <rect width="120" height="85" rx="6" fill="#1f1b2e" fill-opacity="0.9" class="pulse-node" />
+        <text x="12" y="22" fill="#ffffff" font-family="sans-serif" font-size="11" font-weight="bold">LIVE BIDDING</text>
+        <!-- Volumetric Step Graph Lines inside Engine Box -->
+        <path d="M15 65 L40 45 L65 55 L95 35 L110 40" stroke="#9A6AFF" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+        <circle cx="95" cy="35" r="3" fill="#ffffff" />
+      </g>
+      
+      <!-- Inter-node Mesh Connection Edge Pipeline -->
+      <path d="M 330 135 L 350 135" stroke="#9A6AFF" stroke-width="1.5" stroke-dasharray="4,3" />
+      
+      <!-- Sub-platform Base Boundary Profile Lines -->
+      <line x1="190" y1="240" x2="490" y2="240" stroke="#30363d" stroke-width="1"/>
+    </g>
+  </svg>
+</p>
 </details>
 
 <details>
@@ -117,14 +220,101 @@ A modular UI subsystem transforming typical navigation workflows into volumetric
 
 ### Architectural Deep-Dive
 Uses low-overhead raycasting matrices to detect cursor focus changes, feeding state offsets directly into structural matrix transformations. Intercepts standard route changes to execute seamless 3D spatial translations before rendering destination page viewframes.
+
+#### Ray-Casted Viewport Node Mapping Preview
+<!-- Raycast Node Matrix Hover Space Simulation with Dynamic Shadow Casting -->
+<p align="center">
+  <svg width="680" height="340" viewBox="0 0 680 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <style>
+      .space-bg { fill: #0d1117; }
+      
+      /* Dynamic Layer Floating Animations (Asynchronous Offsets) */
+      @keyframes floatLayerA {
+        0%, 100% { transform: translateY(0px) rotateX(55deg) rotateY(5deg) rotateZ(-20deg); }
+        50% { transform: translateY(-16px) rotateX(52deg) rotateY(3deg) rotateZ(-18deg); }
+      }
+      @keyframes floatLayerB {
+        0%, 100% { transform: translateY(-30px) rotateX(55deg) rotateY(5deg) rotateZ(-20deg); }
+        50% { transform: translateY(-52px) rotateX(52deg) rotateY(3deg) rotateZ(-18deg); }
+      }
+      
+      /* Cast Depth Blur-Shadow Matrix Scales inversely with Object Height */
+      @keyframes groundShadow {
+        0%, 100% { transform: scale(1); opacity: 0.4; filter: blur(14px); }
+        50% { transform: scale(0.82); opacity: 0.15; filter: blur(22px); }
+      }
+
+      .layer-bottom {
+        transform-origin: 340px 170px;
+        animation: floatLayerA 5s ease-in-out infinite;
+      }
+      .layer-top {
+        transform-origin: 340px 170px;
+        animation: floatLayerB 5s ease-in-out infinite;
+      }
+      .floor-shadow {
+        transform-origin: 340px 240px;
+        animation: groundShadow 5s ease-in-out infinite;
+      }
+    </style>
+
+    <!-- Canvas Frame -->
+    <rect width="100%" height="100%" class="space-bg" rx="8"/>
+
+    <!-- REAL SHADOW MAPPING LAYER -->
+    <g class="floor-shadow">
+      <ellipse cx="340" cy="250" rx="160" ry="45" fill="#000000" />
+      <ellipse cx="310" cy="245" rx="80" ry="25" fill="#030105" />
+    </g>
+
+    <!-- LAYER CONTAINER 1: THE INPUT INTERACTION PLANE -->
+    <g class="layer-bottom">
+      <!-- Grid Mesh Base Grid Window -->
+      <rect x="200" y="80" width="280" height="160" rx="8" fill="#161b22" fill-opacity="0.6" stroke="#30363d" stroke-width="1.5"/>
+      <path d="M 200 120 L 480 120 M 200 160 L 480 160 M 200 200 L 480 200" stroke="#21262d" stroke-width="1"/>
+      <path d="M 270 80 L 270 240 M 340 80 L 340 240 M 410 80 L 410 240" stroke="#21262d" stroke-width="1"/>
+      
+      <!-- Interactive Focus Matrix Tracking Points -->
+      <circle cx="340" cy="160" r="6" fill="#9A6AFF" opacity="0.8"/>
+      <circle cx="340" cy="160" r="14" stroke="#9A6AFF" stroke-width="1" opacity="0.4" stroke-dasharray="2,2"/>
+    </g>
+
+    <!-- RAYCAST VECTOR CONNECTOR LINES -->
+    <!-- These lines connect the lower coordinate canvas plane to the top floating menu transform blocks -->
+    <g opacity="0.35">
+      <line x1="290" y1="140" x2="270" y2="70" stroke="#6f42c1" stroke-width="1.5" stroke-dasharray="3,3" />
+      <line x1="390" y1="140" x2="410" y2="70" stroke="#6f42c1" stroke-width="1.5" stroke-dasharray="3,3" />
+    </g>
+
+    <!-- LAYER CONTAINER 2: THE FLOATING 3D VIEWPORT LAYER -->
+    <g class="layer-top">
+      <!-- Upraised Primary Navigation Cards Vector -->
+      <g transform="translate(220, 90)">
+        <!-- Dashboard Workspace 3D Tile Layer -->
+        <rect width="240" height="130" rx="10" fill="#21262d" fill-opacity="0.85" stroke="#7928CA" stroke-width="2" style="filter: drop-shadow(0px 15px 20px rgba(0,0,0,0.7));"/>
+        
+        <!-- UI Structural Components Inside Tile -->
+        <rect x="15" y="15" width="40" height="8" rx="4" fill="#9A6AFF" />
+        <rect x="15" y="35" width="210" height="40" rx="6" fill="#0d1117" stroke="#30363d" />
+        <circle cx="35" cy="55" r="10" fill="#30363d" />
+        <rect x="55" y="52" width="120" height="6" rx="3" fill="#21262d" />
+        
+        <!-- Glowing Coordinate Vectors -->
+        <path d="M15 100 L 225 100" stroke="#30363d" stroke-width="2"/>
+        <circle cx="140" cy="55" r="4" fill="#6f42c1" />
+        <line x1="35" y1="55" x2="140" y2="55" stroke="#6f42c1" stroke-width="1" />
+      </g>
+    </g>
+  </svg>
+</p>
 </details>
 
 ---
 
 <!-- EXPERIENCE SECTION -->
-## 💼 Academic & Practical learning
+## 💼 Academic & Practical Experience
 
-### **Student cse** — *NIT Jamshedpur*  
+### **Full Stack Engineer - Student Developer** — *NIT Jamshedpur*  
 **July 2023 — Present**  
 * Designing real-time data sync patterns for distributed apps using advanced Web Socket integrations.
 * Scaling state management pipelines on frontend clients using Redux architectures, eliminating rendering redundancies.
