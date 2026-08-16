@@ -10,7 +10,6 @@
 <p align="center">
   <a href="https://github.com/yogeshswami0"><img src="https://img.shields.io/badge/Degree-B.Tech+CSE+%40+NIT+Jamshedpur-6f42c1?style=flat-square&logo=academia&logoColor=white" alt="Academic"></a>
   <a href="https://github.com/yogeshswami0"><img src="https://img.shields.io/badge/Location-Jamshedpur%2C+India-4c1?style=flat-square&logo=googlemaps&logoColor=white" alt="Location"></a>
-  <a href="https://github.com/yogeshswami0"><img src="https://img.shields.io/badge/Portfolio-Live+Auction-8a2be2?style=flat-square&logo=webauthn&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/yogesh-swami-a3095b288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:swamiyogesh670@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -26,16 +25,14 @@
 <!-- ABOUT SECTION -->
 ## 📌 About Me
 
-I am a Computer Science & Engineering undergraduate at NIT Jamshedpur, focusing on robust full-stack applications, interactive UI systems, and highly responsive user architectures. I combine backend stability with advanced frontend engineering, currently exploring real-time web state synchronization and immersive 3D user interfaces.
+Computer Science & Engineering undergrad at NIT Jamshedpur building robust full-stack applications. I specialize in bridging backend stability with immersive, interactive 3D web interfaces and real-time state synchronization.
 
-* **Computer Science & Engineering:** Deepening core fundamentals in operating systems, distributed database designs, algorithms, and microservices architecture.
-* **Full Stack Development:** Creating high-concurrency systems featuring unified authentication, secure role-based permissions, and dynamic client routing layers.
-* **3D Visual & Interactive UIs:** Specialized in converting traditional static web layouts into real-time interactive systems utilizing 3D motion graphs and hardware-accelerated rendering.
+* **Core CS:** Algorithms, operating systems, distributed databases, and microservices architecture.
+* **Full-Stack:** High-concurrency MERN systems with secure, role-based authentication.
 
-### ⚡ Current Openings & Collaboration
-* Full-stack application engineering partnerships
-* Interactive UI/UX and 3D web graphics design exploration
-* Open-source infrastructure contributions
+### ⚡ Open to Collaborating On:
+* MERN-stack engineering projects
+* Open-source infrastructure
 
 ---
 
@@ -54,110 +51,108 @@ I am a Computer Science & Engineering undergraduate at NIT Jamshedpur, focusing 
 
 ### Backend & Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,react,express,mongodb,mysql,postgres,redis" alt="Backend and DB" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis" alt="Backend and DB" />
 </p>
 
-### Cloud, DevOps & Tooling
+### DevOps & Tooling
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,github,linux" alt="DevOps and Tooling" />
+  <img src="https://skillicons.dev/icons?i=docker,github" alt="DevOps and Tooling" />
 </p>
 
 ---
 
-<!-- AI/ML EXPERTISE SECTION -->
-## 🤖 AI / ML & Visualization Expertise
+<!-- AI, 3D & ENGINEERING EXPERTISE SECTION -->
+## 🤖 AI, 3D & Engineering Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **3D Web Graphics** | Advanced | Three.js canvas generation, custom shaders, camera path animation, Matter.js 2D environments |
-| **Real-time Synchronization** | Advanced | Socket.io event architecture, persistent state pooling, transactional API synchronization |
-| **State Engineering** | Advanced | Redux Toolkit state architectures, unified data layers, asynchronous query caching via Axios |
-| **Data Orchestration** | Intermediate | Relational data integrity schemas, complex pipeline parsing, aggregations |
-
+| **Multimodal OCR & Medical AI** | Advanced | Gemini 2.5 Flash integrations, structured JSON schema enforcement, RAG context grounding, and clinical triage risk stratification. |
+| **3D Web Graphics & Canvas** | Advanced | HTML5 Canvas 3D rendering loops, 3D coordinate orbital projections, math-based particle vector physics, and smooth 60fps rendering via `requestAnimationFrame`. |
+| **Real-Time Alarms & Speech** | Advanced | Web Audio API (native oscillator sound synthesis), Web Speech Synthesis (TTS) localization (English/Hindi), and audio parameter tracking. |
+| **Real-Time Sync & State** | Advanced | Socket.io state machine rooms, server-side sniping protection, RESTful state synchronization, React Context hooks, token-based authorization (JWT), client-side canvas compression, and dynamic `localStorage` caching. |
+| **Resilient Data Orchestration** | Advanced | MongoDB Atlas collections, Mongoose schema validation, cross-model relations (`.populate()`), dual-database fallback adapters (Mongo to JSON), compound index integrity, and self-healing HTTP/SMTP pipelines. |
 ---
 
 <!-- FEATURED PROJECTS SECTION -->
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🔨 Live Auction Architecture Engine</b></summary>
+<summary><b>🩺 AI-DOCTOR: Clinical Triage & Telehealth Intelligence Portal</b></summary>
 <br />
 
 ### Project Description
-An enterprise-grade live web socket auction ecosystem featuring granular tier permission handling (Admin, Owner, Player), synchronous live leaderboards, and real-time state calculation metrics.
+An intelligent, end-to-end medical triage, document parser, and patient-doctor consultation platform that transforms messy patient symptoms and clinical documents into structured, actionable telemetry insights.
 
 | Metric | Target / Implementation |
 | :--- | :--- |
-| **Stack** | React.js, Express, Node.js, Axios, Redux, Three.js, CSS Animations |
-| **Scale** | Multi-role routing environments mapping specific user privilege gates |
-| **Performance** | Asynchronous action state updates under 15ms local lifecycle delay |
-| **Security** | Encrypted token authentication with strict cross-origin CORS security layers |
-| **Impact** | Fully automated transactional event loops dropping layout refresh needs to zero |
-| **Repository** | [github.com/yogeshswami0/live-auction](https://github.com/yogeshswami0) |
+| **Stack** | MongoDB, Express, React, Node.js (MERN), Gemini 2.5 Flash, Web Audio API, Web Speech API |
+| **Scale** | Multi-role platform (Patient / Doctor) designed for scalable clinic triaging, medical record parsing, and digital consultation management |
+| **Performance** | High-efficiency client-side pre-processing (canvas image compression) combined with in-memory buffering and zero-latency audio synthesis |
+| **Security** | Stateless JWT Bearer token authentication, BcryptJS password hashing, and role-based access control (RBAC) |
+| **Impact** | Streamlines clinic triage queues, simplifies lab report jargon, and guarantees notification delivery in SMTP-blocked environments |
+| **Repository** | [View Source Code](https://github.com/yogeshswami0/AI-DOCTOR) |
 
 ### Architectural Deep-Dive
-Engineered a centralized state management module resolving dual server-client actions efficiently. Integrates interactive, hardware-accelerated 3D elements that dynamically respond to bidding milestones and user actions, replacing conventional tabular dashboard structures with immersive data representations.
+Integrates a multimodal OCR pipeline that compiles binary document buffers into Base64 inline vectors for Gemini visual-layout reasoning. Features a context-grounded RAG retrieval adapter mapping questions to local clinic fact sheets, a client-side Web Audio oscillator synthesizer, and a self-healing notification stack that dynamically routes alerts through Brevo/Resend HTTP APIs when standard SMTP ports are blocked by cloud firewalls. Includes a dual-database resilience layer that automatically redirects database read/write queries to local JSON files if MongoDB Atlas experiences connection downtime.
 </details>
 
 <details>
-<summary><b>🌐 Immersive 3D Animated Navigation Core</b></summary>
+<summary><b>🔨 AUCTION-PRO: AI-Powered Real-Time Live Auction & Simulation Engine</b></summary>
 <br />
 
 ### Project Description
-A modular UI subsystem transforming typical navigation workflows into volumetric, reactive 3D workspaces running at persistent high frame rates across devices.
+An enterprise-grade, real-time sports player draft auction board and mock tournament simulation engine featuring role-based privilege gates (Admin, Owner, Player), synchronous WebSocket bidding boards, and Google Gemini AI analytics.
 
 | Metric | Target / Implementation |
 | :--- | :--- |
-| **Stack** | JavaScript, Next.js, Three.js WebGL Framework, CSS3D Vectors, Anime.js |
-| **Scale** | Scalable component architecture designed for modern complex layout routing |
-| **Performance** | Locked 60FPS visual thread loops by offloading physics tasks to Web Workers |
-| **Security** | Sanitized coordinate state structures ensuring input validation safety |
-| **Impact** | Drastically elevates visual interaction metrics, keeping user sessions fluid and engaging |
-| **Repository** | [github.com/yogeshswami0/3d-navigation](https://github.com/yogeshswami0) |
+| **Stack** | React.js, Node.js, Express, Socket.io, MongoDB, Tailwind CSS, Google GenAI SDK (Gemini 2.5), HTML5 Canvas |
+| **Scale** | Multi-role routing environments mapping specific user privilege gates (Admin moderations, Owner draft controls, Player stats) |
+| **Performance** | WebSocket bid events and countdown timer tick synchronization under 20ms network latency delay |
+| **Security** | Encrypted JSON Web Token (JWT) authentication with strict server-side budget checks and CORS security layers |
+| **Impact** | Fully automated transactional event loops and sniping protection, integrated with AI co-pilot and tournament simulators |
+| **Repository** | [View Source Code](https://github.com/yogeshswami0/Auction) |
 
 ### Architectural Deep-Dive
-Uses low-overhead raycasting matrices to detect cursor focus changes, feeding state offsets directly into structural matrix transformations. Intercepts standard route changes to execute seamless 3D spatial translations before rendering destination page viewframes.
+Engineered a stateful Socket.io server holding an in-memory `roomState` cache to act as a single source of truth, synchronizing bid logs and ticking countdown clocks. Integrates a hardware-accelerated 3D projected Canvas bidding animation where franchise nodes orbit a central player draft target, providing an engaging user experience floating behind frosted light-glassmorphism panels. Leverages Retrieval-Augmented Generation (RAG) with MongoDB rules contexts to ground the AI Analyst chatbot, preventing hallucinations.
 </details>
-
 ---
 
 <!-- EXPERIENCE SECTION -->
-## 💼 Academic & Practical learning
+## 💼 Academic & Practical Learning
 
-### **Student CSE** — *NIT Jamshedpur*  
+### **Computer Science & Engineering** — *NIT Jamshedpur*  
 **July 2023 — Present**  
 * Designing real-time data sync patterns for distributed apps using advanced Web Socket integrations.
 * Scaling state management pipelines on frontend clients using Redux architectures, eliminating rendering redundancies.
 * Building modern user portals with distinct login security wrappers and reactive user role boundaries.
-* `React.js` `Node.js` `Express` `MongoDB` `Axios` `Redux`
+* **Core Technologies:** `React.js`, `Node.js`, `Express`, `MongoDB`, `Axios`, `Redux`
 
 ---
 
 <!-- ACHIEVEMENTS SECTION -->
-## 🏆 Key Achievements
-
-<p align="center">
-</p>
+## 🏆 Key Achievements & Extracurriculars
 
 | Recognition | Details |
 | :--- | :--- |
-| **NIT Jamshedpur CSE** | Pursuing highly technical B.Tech roadmap maintaining competitive structural specialization paradigms |
-| **3D UI Innovation** | Deployed custom WebGL modules to convert traditional text-only interfaces into real-time kinetic environments |
+| **Competitive Programming** | Solved 500+ Data Structures & Algorithms problems across LeetCode, Codeforces, and GeeksforGeeks[cite: 1]. Achieved a 1400+ rating on LeetCode and a 1200+ rating on Codeforces (Handle: YS_075)[cite: 1]. |
+| **URJA (NIT Jamshedpur)** | Core Member[cite: 1]. Organized 3+ technical events and mentored 20+ undergraduates in web technologies[cite: 1]. |
+| **CULFEST (NIT Jamshedpur)** | Event Coordinator[cite: 1]. Managed logistics and outreach for a national-level festival attracting 5,000+ attendees[cite: 1]. |
 
 ---
 
 <!-- CERTIFICATIONS SECTION -->
 ## 📜 Certifications
 
-### Advanced Web Development
+### HackerRank
 <p align="left">
-  <img src="https://img.shields.io/badge/Full_Stack_Development-MERN_Architecture_Expertise-6f42c1?style=for-the-badge&logo=react&logoColor=white" alt="MERN Certified">
+  <img src="https://img.shields.io/badge/HackerRank-Software_Developer_Intern-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Software Developer Intern">
+  <img src="https://img.shields.io/badge/HackerRank-Frontend_Developer-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Frontend Developer">
+  <img src="https://img.shields.io/badge/HackerRank-SQL_Certificate-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="SQL Certificate">
 </p>
 
-### Computer Science Foundations
-<p align="left">
-  <img src="https://img.shields.io/badge/NIT_Jamshedpur-Data_Structures_And_Algorithms_Core-005EA6?style=for-the-badge&logo=education&logoColor=white" alt="NITJ Foundation">
-</p>
+* **Software Developer Intern Certificate** — HackerRank[cite: 1]
+* **Frontend Developer Certificate** — HackerRank[cite: 1]
+* **SQL Certificate** — HackerRank[cite: 1]
 
 ---
 
@@ -165,10 +160,12 @@ Uses low-overhead raycasting matrices to detect cursor focus changes, feeding st
 ## 💻 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com"><img src="https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-  <a href="https://hackerrank.com"><img src="https://img.shields.io/badge/HackerRank-Computer_Science-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+  <a href="https://leetcode.com/u/YS_075"><img src="https://img.shields.io/badge/LeetCode-YS__075-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="https://codeforces.com/profile/YS_075"><img src="https://img.shields.io/badge/Codeforces-YS__075-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>
 </p>
 
+* **LeetCode:** YS_075[cite: 1]
+* **Codeforces:** YS_075[cite: 1]
 ---
 
 <!-- GITHUB ANALYTICS SECTION -->
@@ -217,7 +214,7 @@ Uses low-overhead raycasting matrices to detect cursor focus changes, feeding st
 
 ```yaml
 Focusing:
-  Learning: "Advanced hardware accelerated Three.js shaders and WebGL camera matrices"
+  Learning: "Advanced hardware-accelerated Three.js shaders and WebGL camera matrices"
   Building: "Live Auction continuous state sync layer with complex multi-role workflows"
-  Exploring: "Real-time client synchronization frames and high frame rate viewport physics"
+  Exploring: "Real-time client synchronization frames and high-frame-rate viewport physics"
   Open_To: "Collaborating on interactive product architectures and innovative web platforms"
